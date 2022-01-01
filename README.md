@@ -4,3 +4,19 @@
 - Javascript
   - [호이스팅](https://github.com/kbyunghoon/frontend_study/blob/master/Javascript/Hoisting.md)
   - [클래스형과 함수형의 차이](https://github.com/kbyunghoon/frontend_study/blob/master/Javascript/Class_Function.md)
+  - 화살표 함수
+  - 자바스크립트의 this
+  - var, let, const 차이
+  - 객체와 배열
+  - 조건문
+  - 반복문
+  - 원시타입과 참조타입
+  - 클로저
+  - 리액트
+  - Promise
+  - Debounce, Throttle
+    - 리액트에 대해
+    - npm과 yarn의 차이
+    - 라이프사이클
+    - 리액트 훅
+    - 리덕스 툴킷
